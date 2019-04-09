@@ -1,4 +1,4 @@
-# DSCBUK Web Study Jam v1
+# DSCBUK Android Study Jam v1
 Resources for DSCBUK Android Study Jam
 
 ## The lessons will be splited over a period of 3 weeks and can be found here:
